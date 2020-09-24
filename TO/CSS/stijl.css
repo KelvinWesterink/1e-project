@@ -1,23 +1,40 @@
 
 h1 {
-    color:burlywood;
-    font-family: Arial;
+    color: silver;
+    font-family: Brush Script MT;
     font-size: 50px;
 }
 
 h2{
-    color: white;
-    font-family: Arial;
+    color: mediumpurple;
+    font-family: Castellar;
     font-size: 26px;
 }
 
 h3 {
-    color: yellowgreen;
+    color: blue;
     font-family: Arial;
     font-size: 15px
 }
 h4 {
-    color: goldenrod;
+    color: lightblue;
     font-family: Arial;
-    font-size: 16px
+    font-size: 16px;
+}
+
+
+body {
+  background-image: url('KeWe.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  
+}
+
+
+}
+
+img {
+    width: 300px
+    
 }
