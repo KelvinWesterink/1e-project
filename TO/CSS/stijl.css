@@ -5,17 +5,21 @@ h1 {
     font-size: 50px;
 }
 
+
 h2{
     color: mediumpurple;
     font-family: Castellar;
     font-size: 26px;
 }
 
+
 h3 {
     color: blue;
     font-family: Arial;
     font-size: 15px
 }
+
+
 h4 {
     color: lightblue;
     font-family: Arial;
@@ -32,9 +36,9 @@ body {
 }
 
 
-}
 
 img {
     width: 300px
     
 }
+
