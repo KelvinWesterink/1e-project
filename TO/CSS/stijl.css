@@ -1,20 +1,23 @@
 
 h1 {
-    color: burlywood;
+    color:burlywood;
     font-family: Arial;
     font-size: 50px;
 }
 
 h2{
+    color: white;
     font-family: Arial;
     font-size: 26px;
 }
 
 h3 {
-    font-family: Arial;
-    font-size: 15px;
-}
-h4 {
+    color: yellowgreen;
     font-family: Arial;
     font-size: 15px
+}
+h4 {
+    color: goldenrod;
+    font-family: Arial;
+    font-size: 16px
 }
